@@ -1,0 +1,7 @@
+path: "D:/Semester 5/Visi Komputer/Joki/Object Detection/data"
+train: "images/train"
+val: "images/train"
+
+names:
+    0: "rabbit"
+    1: "cat"

@@ -1,0 +1,7 @@
+path: "/content/drive/MyDrive/Joki Sotya/data"
+train: "images/train"
+val: "images/train"
+
+names:
+    0: "rabbit"
+    1: "cat"
